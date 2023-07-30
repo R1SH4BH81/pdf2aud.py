@@ -42,5 +42,35 @@ To build this project, you'll need the following libraries:
 This project will provide a valuable opportunity to enhance your Python skills while creating a useful tool for converting PDFs and audio files. Let's embark on this exciting journey!
 <h2>Live Demo</h2>
 <p>Visit <a href="https://replit.com/@RishabhMishra18/PY2aud#main.py">here</a> to test its working. </p>
+## Running the Project Locally
+
+To run this project on your local machine, follow the steps below:
+
+1. Ensure you have Python installed: This project requires Python, so make sure you have Python installed on your machine. You can download the latest version of Python from the official website (https://www.python.org/) and install it.
+
+2. Clone the repository: Clone this project repository to your local machine using Git or download the ZIP file and extract it.
+
+3. Install required libraries: Open your terminal or command prompt, navigate to the project directory, and run the following command to install the required libraries:
+
+   ```
+   pip install pyttsx3 SpeechRecognition PyPDF4 pydub
+   ```
+
+   If you encounter any issues with the installation, make sure you have pip (Python package manager) installed and up to date.
+
+4. Run the main.py script: In the project directory, you'll find the `main.py` script. Run the following command in your terminal or command prompt to execute the script:
+
+   ```
+   python main.py
+   ```
+
+5. Wait for the GUI window to appear: After running the `main.py` script, the GUI window of the PDF to Audio and Audio to PDF converter will appear on your screen. 
+
+6. Start converting: Now, you can use the converter to convert PDFs to audio or audio to PDF by following the on-screen instructions and options provided by the GUI.
+
+Feel free to explore the features of the application and enjoy using this Python project to convert PDFs and audio files conveniently on your local machine!
+
+---
+Created with ❤️ by the Python Team
 ---
 Created with ❤️ 
