@@ -71,6 +71,4 @@ To run this project on your local machine, follow the steps below:
 Feel free to explore the features of the application and enjoy using this Python project to convert PDFs and audio files conveniently on your local machine!
 
 ---
-Created with ❤️ by the Python Team
----
 Created with ❤️ 
